@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-03T12:40:19 IST" name="Default suite" finished-at="2023-05-03T12:40:38 IST" duration-ms="19171">
+    <groups>
+    </groups>
+    <test started-at="2023-05-03T12:40:19 IST" name="Default test" finished-at="2023-05-03T12:40:38 IST" duration-ms="19171">
+      <class name="test1.OrangeLogin">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:test1.OrangeLogin@7d61eb55]" started-at="2023-05-03T12:40:19 IST" name="beforeTest" finished-at="2023-05-03T12:40:29 IST" duration-ms="9366" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="tc_2()[pri:0, instance:test1.OrangeLogin@7d61eb55]" started-at="2023-05-03T12:40:29 IST" name="tc_2" finished-at="2023-05-03T12:40:38 IST" duration-ms="9765" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_2 -->
+        <test-method is-config="true" signature="tc_3()[pri:0, instance:test1.OrangeLogin@7d61eb55]" started-at="2023-05-03T12:40:38 IST" name="tc_3" finished-at="2023-05-03T12:40:39 IST" duration-ms="981" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_3 -->
+      </class> <!-- test1.OrangeLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
